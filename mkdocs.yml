@@ -1,12 +1,15 @@
 site_name: Brainy Help
 nav:
-  - Welcome: index.md
-  - Sidebar: sidebar.md
-  - Home: home.md
-  - Editor: editor.md
-  - Search: search.md
-  - Reviewer: reviewer.md
-  - Sync: sync.md
-  - Settings: settings.md
-  - Backup: backup.md
-theme: readthedocs
+  - Getting Started: index.md
+  - App Components:
+    - app-components/sidebar-and-navigation.md
+    - app-components/home.md
+    - app-components/editor.md
+    - app-components/search-and-find.md
+    - app-components/reviewer.md
+  - Settings & Data:
+    - settings-and-data/settings.md
+    - settings-and-data/cloud-sync.md
+    - settings-and-data/automatic-backup.md
+theme: 
+  name: readthedocs

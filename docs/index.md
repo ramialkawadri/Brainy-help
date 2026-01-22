@@ -1,52 +1,44 @@
-# Welcome to Brainy
+# Getting started
 
-Brainy is a learning app designed to make knowledge retention
-effortless and enjoyable. Whether you're a student, a professional, or simply
-a lifelong learner, Brainy empowers you to master any subject with its
-cutting-edge features that harness the power of active learning and spaced
-repetitions.
+Brainy is a powerful learning app designed to make knowledge retention effortless and enjoyable. Whether you're a student, professional, or lifelong learner, Brainy empowers you to master any subject through active learning and scientifically-proven spaced repetition techniques.
 
-## Key features:
+## Key Features
 
-- **Notebook Style Files:** Seamlessly organize notes and ideas all in one
-place.
-  
-- **Structured Folders and Files:** Easily manage and access your study 
-materials with robust organization.
-  
-- **Active Learning and Spaced Repetitions:** Retain knowledge effectively
-with FSRS (Free Spaced Repetition Scheduler) algorithm, with configurable
-parameters.
-  
-- **Interactive Tools:** Dive into flash cards and cloze exercises for dynamic 
-study sessions.
+- **📚 Notebook-Style Files** — Seamlessly organize your notes and ideas in a centralized workspace
+- **📁 Structured Organization** — Manage and access study materials with intuitive folder hierarchies
+- **🧠 Spaced Repetition** — Retain knowledge effectively using the FSRS (Free Spaced Repetition Scheduler) algorithm with fully customizable parameters
+- **🎯 Multiple Study Modes** — Engage with flashcards, cloze deletions, true/false questions, and more
+- **⚡ Keyboard Shortcuts** — Navigate and work efficiently with comprehensive keyboard controls
+- **☁️ Cloud Sync** — Keep your data synchronized across all your devices in real-time
+- **💾 Automatic Backups** — Rest assured with periodic automatic backups of your data
 
-- **Efficient Keyboard Shortcuts:** Navigate the app quickly to enhance your 
-learning experience.
+## Quick Start Guide
 
-- **Advanced File Management:** Efficiently store and organize your notes and 
-files using our sophisticated file management system.
+Getting started with Brainy is simple:
 
-- **Sync Across Devices**: Keep your data up to date across all your
-devices with built‑in syncing functionality.
+### 1. Create Your First File
+- Open the app and locate the **Sidebar** on the left
+- Click the three dots menu and select **New File**
+- Give your file a descriptive name and press Enter
 
-## Get started
+### 2. Add Study Cards
+- Click on your new file to open the **Editor**
+- Click **Add Cell** to create a new study block
+- Select **Flash Card** as the cell type
+- Enter your question and answer
+- Click outside the cell to save it
 
-To get started, install the app and open it. In the app, you will find the
-**sidebar** with a list of the files you have created. To create a new file, 
-click on **Create a File** or the three dots, then select **New File**. Give 
-the file a name and press Enter. After creating a file, click on it to navigate 
-to the file's editor. There, click the **Add Cell** button to create a new cell.
-Choose "Flash Card" and enter content for the question and answer. Once you've
-done that, press the **Study** button on the sidebar. This will open the reviewer,
-so you can review the flash card you created.
+### 3. Start Reviewing
+- Click the **Study** button in the sidebar
+- The **Reviewer** will open showing your cards
+- For each card, try to recall the answer before revealing it
+- Rate how difficult it was using the feedback buttons
+- Brainy will automatically schedule the next review based on your performance
 
-## Reporting an issue, bug or requesting a new feature
+## Need Help?
 
-To report an issue, bug or request a new feature, you can visit
-the following [link](https://github.com/ramialkawadri/Brainy/issues/new).
+### Report Issues or Request Features
+Found a bug or have a feature idea? Visit the [GitHub Issues page](https://github.com/ramialkawadri/Brainy/issues/new) to report it.
 
-## Contact the developer
-
-To contact the main developer of this app, send email to 
-[ramialkawadri@hotmail.com](mailto:ramialkawadri@hotmail.com).
+### Contact the Developer
+For questions or feedback, reach out to the developer at [ramialkawadri@hotmail.com](mailto:ramialkawadri@hotmail.com).
